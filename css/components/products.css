@@ -1,0 +1,100 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.juliette {
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around; 
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 10px 4px;
+	flex-basis: 250px;
+	flex-grow: 1;
+	background-color: white;
+}
+.juliette img {
+	width: 150px;
+	border-radius: 6px;
+}
+
+.juliette h3 {
+
+	flex-grow: 1;
+	padding-left: 20px;
+	font-size: 18px;
+}
+
+.amelie {
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around; 
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 10px 4px;
+	flex-basis: 250px;
+	flex-grow: 1;
+	background-color: white;
+}
+.amelie img {
+	width: 150px;
+	border-radius: 6px;
+}
+
+.amelie h3 {
+
+	flex-grow: 1;
+	padding-left: 20px;
+	font-size: 18px;
+}
+
+.marta h3 {
+
+	flex-grow: 1;
+	padding-left: 20px;
+	font-size: 18px;
+}
+
+.marta {
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around; 
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 10px 4px;
+	flex-basis: 250px;
+	flex-grow: 1;
+	background-color: white;
+}
+.marta img {
+	width: 150px;
+	border-radius: 6px
+}
+
+.jacqueline h3 {
+
+	flex-grow: 1;
+	padding-left: 20px;
+	font-size: 18px;
+}
+
+.jacqueline {
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around; 
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 10px 4px;
+	flex-basis: 250px;
+	flex-grow: 1;
+	background-color: white;
+}
+.jacqueline img {
+	width: 150px;
+	border-radius: 6px
+}
